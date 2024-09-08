@@ -1,6 +1,6 @@
 # CS50 Journey
 
-1. **Scratch Game:**
+1. **Bat Game:**
    I created a simple game in Scratch for Assignment 0.
    The game revolves around a bat that feeds on insect and when the score reaches 20, the environment changes from Day to Night.
    
